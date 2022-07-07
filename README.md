@@ -1,5 +1,5 @@
 - 👋 Hi, je suis @joejak21
-- 👀 Je suis intérèssé par le Machine Learning,les modélisations mathématiques des processus aléatoires, gestion de portefeuille et de risque
+- 👀 Je suis intéressé par le Machine Learning, les modélisations des processus aléatoires, gestion de portefeuille et de risque
 - 📫 Comment me joindre:
 - Par Email: josephkomlanassou@gmail.com
 
